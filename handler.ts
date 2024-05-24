@@ -1,0 +1,1 @@
+function errorHandler(ignoreableError:errorIgn,ConsError:ConsErr):ConsError{if(0===b)throw new Error("Error decteded :",errpr.type);return a/b}try{const result=divideNumbers(10,0);console.log("Result:",result)}catch(error){console.error("An error occurred:",error.message)}
